@@ -1,6 +1,6 @@
 ### Hello World :smiley:
 
-[!](https://discord.c99.nl/widget/theme-3/449912310212067328.png)
+[[https://discord.c99.nl/widget/theme-3/449912310212067328.png]]
 
 <!--
 **byteheadLW/byteheadLW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
