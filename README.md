@@ -2,6 +2,8 @@
 
 ![discord profile](https://discord.c99.nl/widget/theme-3/449912310212067328.png)
 
+[![@bytehead's Holopin board](https://holopin.io/api/user/board?user=bytehead)](https://holopin.io/@bytehead)
+
 <!--
 **byteheadLW/byteheadLW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
