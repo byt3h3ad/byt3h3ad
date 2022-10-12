@@ -1,6 +1,8 @@
-### Hello World :smiley:
-
-![discord profile](https://discord.c99.nl/widget/theme-3/449912310212067328.png)
+<p align="center">
+  <samp>
+    Hello World!
+  </samp>
+</p>
 
 [![@bytehead's Holopin board](https://holopin.io/api/user/board?user=bytehead)](https://holopin.io/@bytehead)
 
