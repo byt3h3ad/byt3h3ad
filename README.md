@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://makers.appwrite.io/byt3h3ad">
-    <img height=350 src="https://appwrite.io/cards/makers/byt3h3ad" alt="byt3h3ad's Maker Card" />
+    <img width="400" src="https://appwrite.io/cards/makers/byt3h3ad" alt="byt3h3ad's Maker Card" />
   </a>
 </p>
 
