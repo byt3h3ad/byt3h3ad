@@ -17,6 +17,10 @@
 
 [![@bytehead's Holopin board](https://holopin.io/api/user/board?user=bytehead)](https://holopin.io/@bytehead)
 
+<p align="center>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=byt3h3ad&theme=catppuccin-frappe&hide_border=true" />
+</p>
+
 <!--
 **byteheadLW/byteheadLW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
