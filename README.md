@@ -10,16 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://makers.appwrite.io/byt3h3ad">
-    <img width="400" src="https://appwrite.io/cards/makers/byt3h3ad" alt="byt3h3ad's Maker Card" />
-  </a>
+  <img src="/github-metrics.svg" alt="byt3h3ad's metrics" />
 </p>
 
 [![@bytehead's Holopin board](https://holopin.io/api/user/board?user=bytehead)](https://holopin.io/@bytehead)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byt3h3ad&theme=catppuccin-frappe&hide_border=true" />
-</p>
 
 <!--
 **byteheadLW/byteheadLW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
