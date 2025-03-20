@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    .  <a href="https://gist.github.com/byt3h3ad/fab4e5597f621619a83cdb4728e22a5b">Hello World!</a>  .
+    .  <a href="https://home.byt3h3ad.workers.dev/website">Hello World!</a>  .
     <br />
 <!--     <a href="https://peerlist.io/adhiraj">
       <img src="https://peerlist-readme-badge.herokuapp.com/api/adhiraj?style=social" alt="Peerlist" />
